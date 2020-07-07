@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="films_data.xsl"?>
+<!DOCTYPE FILMS_DATA SYSTEM "films_data.dtd">
+<FILMS_DATA>
+	<bollybood>
+		<title>Malang</title>
+	    <productionCompany>T-Series</productionCompany>
+	    <distributor>Yash Raj Films</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹84.50 crore (US$12 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Baaghi 3</title>
+	    <productionCompany>Fox Star Studios</productionCompany>
+	    <distributor>Fox Star Studios</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹137.05 crore (US$19 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Street Dancer 3D</title>
+	    <productionCompany>T-Series</productionCompany>
+	    <distributor>AA Films</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹97 crore (US$14 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Chhapaak</title>
+	    <productionCompany>Ka Productions</productionCompany>
+	    <distributor>Fox Star Studios</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹55.44 crore (US$7.8 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Love Aaj Kal</title>
+	    <productionCompany>Window Seat Films</productionCompany>
+	    <distributor>Pen Marudhar Entertainment</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹52.63 crore (US$7.4 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Jawaani Jaaneman</title>
+	    <productionCompany>Black Knight Films</productionCompany>
+	    <distributor>Pen Marudhar Entertainment</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹44.77 crore (US$6.3 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Thappad</title>
+	    <productionCompany>Benaras Media Works</productionCompany>
+	    <distributor>AA Films</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹44.54 crore (US$6.2 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Panga</title>
+	    <productionCompany>Fox Star Studios</productionCompany>
+	    <distributor>Fox Star Studios</distributor>
+	    <releaseyear>2020</releaseyear>
+	    <wwgross>₹41.71 crore (US$5.8 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>PK</title>
+	    <productionCompany>Vinod Chopra Films</productionCompany>
+	    <distributor>Rajkumar Hirani Films</distributor>
+	    <releaseyear>2014</releaseyear>
+	    <wwgross>₹832 crore (US$120 million)</wwgross>
+	</bollybood>
+	<bollybood>
+		<title>Dangal</title>
+	    <productionCompany>Aamir Khan Productions
+UTV Motion Pictures</productionCompany>
+	    <distributor>Walt Disney Studios India</distributor>
+	    <releaseyear>2016</releaseyear>
+	    <wwgross>₹2,024 crore (US$311 million)</wwgross>
+	</bollybood>
+</FILMS_DATA>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Title Of The Page</title>
+  <style type="text/css">
+    body{
+      font-family: arial, sans-serif;
+      background: #ECE9E6;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+      background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+    }
+    h1{
+
+    }
+    h2 {
+           font-size: 20px;
+    }
+    .header{
+      height: 80px;
+      margin-right: 100px;
+      margin-left: 100px;
+      background:#000000;
+    }
+    .header a:hover{
+      background-color: #ddd;
+      color: black;
+    }
+    .header a{
+      font-size: 20px;
+      line-height: 70px;
+      text-decoration: none;
+      color: #fff;
+      padding-left: 25px;
+    }
+    .container{
+      margin-right: 100px;
+      margin-left: 100px;
+    }
+    .paragraph{
+      text-align: justify;
+    }
+    ul{
+      list-style-type:none;
+      padding: 0;
+    }
+    li{
+      padding-top: 15px;
+    }
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+      .tableHead{
+        background:#1a1a1a;
+        color:#fff;
+      }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header">
+      <a href="films_data.xml">Highest-Grossing Films</a>
+    </div>
+  </header>
+  <section>
+    <div class="container">
+      <h1>Paragraph Heading</h1>
+      <p class="paragraph">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+      </p>
+      <div>
+        <h2>Tickets Type</h2>
+        <ul>
+          <li>1.Sed auctor purus ac diam</li>
+          <li>2.Maecenas a metus nec</li>
+          <li>3.Quisque placerat dui non</li>
+          <li>4.Suspendisse vel est eu dui</li>
+          <li>5.Sed aliquet nulla in nisl ullamcorper rhoncus</li>
+        </ul>
+      </div>
+      <div>
+        <h2>Opening Time</h2>
+                <table>
+          <tr class="tableHead">
+            <th>Movie Name</th>
+            <th>Cinema</th>
+            <th>Time</th>
+            <th>Date</th>
+          </tr>
+          <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>9:30 AM</td>
+            <td>20/03/2015</td>
+          </tr>
+          <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>9:30 AM</td>
+            <td>20/03/2015</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

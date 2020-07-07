@@ -1,0 +1,6 @@
+<!ELEMENT FILMS_DATA (title,productionCompany,distributor,releaseyear,wwgross)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT productionCompany (#PCDATA)>
+<!ELEMENT distributor (#PCDATA)>
+<!ELEMENT releaseyear (#PCDATA)>
+<!ELEMENT wwgross (#PCDATA)>
